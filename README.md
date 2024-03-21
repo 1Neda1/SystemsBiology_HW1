@@ -1,6 +1,7 @@
 SystemsBiology_HW1_Uiversity of Tehran
 
 Consider the graph below and answer the questions.
+![image](https://github.com/1Neda1/SystemsBiology_HW1/assets/107118340/3aeb6f09-8fca-4a35-8150-c570e49d2561)
 1. Specify the list of nodes and edges.
 2. Specify the degree of all nodes.
 3. Specify the three paths between nodes A and D and the shortest path (s) between these two nodes.
